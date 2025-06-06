@@ -60,8 +60,8 @@ namespace KütüphaneOtomasyon
         {
             kişilerim.Add(new Kişi(1, "nisa", "güdür", DateTime.Now, "nisa","1" , "admin"));
             kişilerim.Add(new Kişi(2, "taha", "güdür", DateTime.Now, "taha", "2", "üye"));
-            kişilerim.Add(new Kişi(3, "alisami", "güdür", DateTime.Now, "velet","3" , "üye"));
-            kişilerim.Add(new Kişi(4, "yasir", "aydoğan", DateTime.Now, "yaço", "4", "üye"));
+            kişilerim.Add(new Kişi(3, "alisami", "güdür", DateTime.Now, "alisami","3" , "üye"));
+            kişilerim.Add(new Kişi(4, "yasir", "aydoğan", DateTime.Now, "yasir", "4", "üye"));
 
             kitaplarım.Add(new Kitap(1, "İçimizdeki Şeytan", "Sebahattin Ali", "Türkçe", "Yapı Kredi Yayınları", "Roman",100,250,2015));
             kitaplarım.Add(new Kitap(2, "Tutunamayanlar", "Oğuz Atay", "Türkçe", "İletişim Yayınları", "Roman", 350, 760, 2015));
